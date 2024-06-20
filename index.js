@@ -1,3 +1,6 @@
+
+//ejercicio 1 one education java
+
 const prompt = require("prompt-sync")()
 
 let mensajeDeBienvenida = 'Bienvenido a la aplicación';
